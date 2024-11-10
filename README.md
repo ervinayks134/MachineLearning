@@ -1,4 +1,4 @@
-# Tutorial Overview
+# Overview
 This tutorial is structured into multiple sections, each focusing on a key area of machine learning. Below is a brief description of what you will learn in each part:
 
 **Introduction to Machine Learning**
